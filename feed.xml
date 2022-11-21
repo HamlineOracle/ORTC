@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Our Right to Choose</title>
+    <googleplay:author>Alex Sirek, The Oracle</googleplay:author>
+    <rawvoice:rating>TV-</rawvoice:rating>
+    <rawvoice:location>Saint Paul, Minnesota</rawvoice:location>
+    <rawvoice:frequency>Monthly</rawvoice:frequency>
+    <author>Alex Sirek, The Oracle</author>
+    <itunes:author>Alex Sirek, The Oracle</itunes:author>
+    <itunes:email>oracle@hamline.edu</itunes:email>
+    <itunes:category text="Medicine" />
+    <image>
+      <url></url>
+      <title>Our Right to Choose</title>
+    </image>
+    <itunes:owner>
+      <itunes:name>The Oracle</itunes:name>
+      <itunes:email>oracle@hamline.edu</itunes:email>
+    </itunes:owner>
+    <itunes:keywords></itunes:keywords>
+    <copyright>The Oracle</copyright>
+    <description>Discussing access to abortion and other healthcare in the upper midwest</description>
+    <googleplay:image href="" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Mon, 21 Nov 2022 13:00:00 CST</pubDate>
+    <link>https://hamlineoracle.github.io/ORTC/feed.xml</link>
+    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+
+
+    <item>        
+      <author>Test, Audio</author>        
+      <itunes:author>Test, Audio</itunes:author>      
+      <title>Introduction</title>        
+      <pubDate>Mon, 21 Nov 2022 10:00:00 CST</pubDate>        
+      <enclosure url="https://hamlineoracle.github.io/ORTC/audio/ORTC1.mp3" type="audio/mpeg" length="615584" />        
+      <itunes:duration>0:20</itunes:duration>        
+      <guid isPermaLink="false">cepod01</guid>      
+      <itunes:explicit>no</itunes:explicit>        
+      <description>  
+      Show Notes Here!         
+      </description>      
+    </item>
+  </channel>
+</rss>
