@@ -11,7 +11,7 @@
     <itunes:email>oracle@hamline.edu</itunes:email>
     <itunes:category text="Medicine" />
     <image>
-      <url>https://hamlineoracle.github.io/ORTC/ORTC.png</url>
+      <url>https://hamlineoracle.github.io/ORTC/ORTC_logo.jpg</url>
       <title>Our Right to Choose</title>
     </image>
     <itunes:owner>
@@ -21,12 +21,12 @@
     <itunes:keywords></itunes:keywords>
     <copyright>The Oracle</copyright>
     <description>Hamline's student journalists address access to abortion and other healthcare in the upper midwest</description>
-    <googleplay:image href="https://hamlineoracle.github.io/ORTC/ORTC.png" />
+    <googleplay:image href="https://hamlineoracle.github.io/ORTC/ORTC_logo.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 21 Nov 2022 14:00:00 CST</pubDate>
     <link>https://hamlineoracle.github.io/ORTC/feed.xml</link>
-    <itunes:image href="https://hamlineoracle.github.io/ORTC/ORTC.png" />
+    <itunes:image href="https://hamlineoracle.github.io/ORTC/ORTC_logo.jpg" />
 
 
     <item>        
