@@ -30,16 +30,16 @@
 
 
     <item>        
-      <author>Test, Audio</author>        
-      <itunes:author>Test, Audio</itunes:author>      
-      <title>Introduction</title>        
-      <pubDate>Mon, 21 Nov 2022 10:00:00 CST</pubDate>        
-      <enclosure url="https://hamlineoracle.github.io/ORTC/audio/ORTC1.mp3" type="audio/mpeg" length="615584" />        
-      <itunes:duration>0:20</itunes:duration>        
+      <author>Alex Sirek, The Oracle</author>        
+      <itunes:author>Alex Sirek, The Oracle</itunes:author>      
+      <title>Introducing: Our Right to Choose</title>        
+      <pubDate>Mon, 05 Dec 2022 10:00:00 CST</pubDate>        
+      <enclosure url="https://hamlineoracle.github.io/ORTC/audio/ORTC_intro_interiew.mp3" type="audio/mpeg" length="615584" />        
+      <itunes:duration>3:16</itunes:duration>        
       <guid isPermaLink="false">cepod01</guid>      
       <itunes:explicit>no</itunes:explicit>        
       <description>  
-      The first episodes are coming soon!      
+       More information about Our Right to Choose can be found <a href='https://hamlineoracle.com/10686/uncategorized/after-deadline-our-right-to-choose/'>here</a>.
       </description>      
     </item>
   </channel>
